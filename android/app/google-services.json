@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898812101243",
+    "project_id": "umarketplace-61c3d",
+    "storage_bucket": "umarketplace-61c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898812101243:android:e2f74578a406bdc65c98de",
+        "android_client_info": {
+          "package_name": "com.example.orange_marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898812101243-1rl2hmvr954m37rhfp30nuavn4g3eevr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orange_marketplace",
+            "certificate_hash": "e99a0a2eb608cc419c3ac80bcde22d364d8ca2b2"
+          }
+        },
+        {
+          "client_id": "898812101243-fjmiv5jotl4jtd2fit1v8sir8gm9othc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgMaHrrgC0pHnSwpck6yRN79MpthwP-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898812101243-fjmiv5jotl4jtd2fit1v8sir8gm9othc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
