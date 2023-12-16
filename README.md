@@ -1,5 +1,5 @@
 # orange_marketplace
-Project have two tipe, of account byer, and seller
+Project have two tipe, of account byer, and seller respectively different UI.
 - Firebase
 - Firebase Notification
 - Firebase Database
